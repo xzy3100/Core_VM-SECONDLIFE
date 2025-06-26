@@ -1,6 +1,7 @@
 ; robot.lsl — VM module for “Robo-Patrol”
 
 LABEL init
+HOVER "🤖 Rex Contrarium Online"
 SAY "🤖 Robot Online."
 WAIT 1
 GOTO patrol
