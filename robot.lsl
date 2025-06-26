@@ -15,7 +15,6 @@ MOVE -5 0 0
 WAIT 1
 GOTO patrol
 
-; react to being “pinged” via a message
 LABEL listen
 SAY "📡 Ping received!"
 WAIT 1
